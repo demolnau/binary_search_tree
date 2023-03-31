@@ -2,8 +2,8 @@
 Odin Project : [Binary Search Tree](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
 
 Requirements: \
-    1. Node Class \
-    2. Tree Class \
+    * Node Class \
+    * Tree Class \
     &nbsp;&nbsp;&nbsp;&nbsp;   a. constructor should have a root attribute using the output of the buildTree function \
     &nbsp;&nbsp;&nbsp;&nbsp;    b. Array must be sorted and duplicates removed before tree is build \
     &nbsp;&nbsp;&nbsp;&nbsp;    c. buildTree() takes in an array and returns a balanced binary tree of Node objects \
